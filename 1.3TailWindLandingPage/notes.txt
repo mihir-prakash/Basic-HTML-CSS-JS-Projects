@@ -1,0 +1,24 @@
+1.Initially, do Play CDN on website and copy the script
+
+2.To Make sure we make the main div resposive, search for a property 
+    "Container": to make width responsive
+    "min-h-screen"  and it'll set the minimum height to 100vh
+
+3. To make list items in same line set class of li elt as inline-block
+
+4. Space to control gap between elements in a flexbox
+
+5. padding: px , py
+
+6. leading-normal: To give spacing between lines ie. line height
+
+7. Design Basics for a landing page: (all wrapped in a div)
+    1. A navbar with ~3 components. (logo, list, button)
+    2. 2 line Main headings with more spacing
+    3. A description paragraph
+    4. Some button links for call to action
+    5. A big image
+
+8. w-full : to set width at 100%
+
+9. Without Config file too, we can style custom styles by normal CSS
